@@ -1,0 +1,97 @@
+.banner-card{
+    position:relative
+}
+
+
+.banner-card img{
+    width: 1320px
+height: 600px
+top: 50px
+left: 140px
+border-radius: 16px
+angle: 0 deg
+color: #070211,#07021100 
+}
+.banner-text {
+    position: absolute;
+    top:0%;
+    bottom: 90%;
+    right: 30%;
+    left: 30%;
+    color: #fff;
+    padding: 30px;
+}
+.banner-text h4{
+    font-family: Merriweather;
+font-size: 50px;
+font-weight: 600;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: center;
+}
+.banner-text h5{
+    font-family: Merriweather;
+font-size: 40px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: center;
+}
+.banneroffer {
+    position: center ;
+    padding: 10px;
+}
+.banneroffer img{
+    width: 802.9px
+height: 300px
+top: 1076px
+left: 100px;
+}
+.banneroffer-text{
+    text-align: center;
+}
+.banneroffer-text h3{
+    font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0em;
+text-align: center;
+color: #FF0000;
+padding-bottom: 10px;
+}
+.banneroffer-text h6 {
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 0px;
+letter-spacing: 0em;
+text-align: center;
+color:#FF0000;
+}
+.banneroffer-text h4{
+    font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: center;
+color:#070211;
+}
+.welcome img {
+    width: 1320px
+height: 600px
+top: 1696px
+left: 140px
+color:#070211, #07021100;
+}
+.welcome-text {
+    position: absolute;
+    top:0%;
+    bottom: 90%;
+    right: 30%;
+    left: 30%;
+    color: #fff;
+    padding: 30px;
+}
+    
